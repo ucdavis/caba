@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+	{% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="3; url=/">
+   	{% endif %}
+  <body>
+
+    {% include header.html %}
+
+    
+        {{ content }}
+
+
+    {% include footer.html %}
+
+  </body>
+  <!-- Modal -->
+  <script>
+    $('#myModal').on('shown.bs.modal', function () {
+    $('#myInput').focus()
+  })
+  </script>
+  <!--   slider -->
+  <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+  </script>
+  <!-- active nav -->
+  <script type="text/javascript">
+    $(function() {
+       if (location.pathname.split("/")[1]) {
+           $('nav a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
+       }
+    });
+  </script>
+  <!-- Searchpopup -->
+  <script src="/js/classie.js"></script>
+  <script src="/js/uisearch.js"></script>
+  <script>
+    new UISearch( document.getElementById( 'sb-search' ) );
+  </script>
+
+  <!-- featherlight -->
+    <script>
+    $(document).ready(function(){
+    $('.gallery').featherlightGallery();
+  });
+    $.featherlightGallery.prototype.afterContent = function() {
+    var caption = this.$currentTarget.find('img').attr('alt');
+    this.$instance.find('.caption').remove();
+    $('<div class="caption">').text(caption).appendTo(this.$instance.find('.featherlight-content'));
+  };
+  </script>
+    <script src="/js/featherlight.min.js" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8">
+    </script>
+    <script>
+       $(".breadcrumb li").last().addClass('active');
+    </script>
+</html>
