@@ -77,7 +77,15 @@
 .float-right {
     float: right;
 }
-
+.bg-caba-primary {
+    background-color:$caba-primary !important;
+}
+.bg-caba-secondary {
+    background-color:$caba-secondary !important;
+}
+.bg-caba-tertiary {
+    background:$caba-tertiary !important;
+}
 .bg-sunny-grass {
     background-color: $sunny-grass !important;
 }
