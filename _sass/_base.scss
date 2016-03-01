@@ -1,10 +1,28 @@
-*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 header {
     border-bottom: 1px solid $borders;
     height: auto;
-    padding-top: 1.5%;
+    background-image: url("/media/swirl_pattern.png");
+    .header_wrapper {
+        padding-top: 1.5%;
     padding-bottom: 0.5%;
-    background-color: #ffffff;
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#012a5f+0,023f71+100 */
+        background: #012a5f;
+        /* Old browsers */
+        background: -moz-linear-gradient(top, #012a5f 0%, #023f71 100%);
+        /* FF3.6-15 */
+        background: -webkit-linear-gradient(top, #012a5f 0%, #023f71 100%);
+        /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom, #012a5f 0%, #023f71 100%);
+        opacity: .85;
+    }
     .header_contents {
         @include container;
         .logo_wrapper {
@@ -13,7 +31,7 @@ header {
         }
         .search_wrapper {
             width: 40%;
-            display:inline-block;
+            display: inline-block;
         }
     }
 }
