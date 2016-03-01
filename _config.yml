@@ -1,10 +1,10 @@
 # Site settings
-title: Jekyll Starter
-email: cydoval@mac.com
+title: CABA at UC Davis
+email: efhallen@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is a Jekyll Starter template developed by cydoval.com.
+  The Center for Aquatic Biology and Aquaculture (CABA) was established to provide leadership, focus, and support to University of California Davis researchers in addressing problems associated with California’s cultured and wild aquatic biological resources.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jekyll-starter.ucdavis.edu" # the base hostname & protocol for your site
+url: "http://caba.ucdavis.edu" # the base hostname & protocol for your site
 
 permalink: pretty
 

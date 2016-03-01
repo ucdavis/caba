@@ -11,8 +11,8 @@ header {
     height: auto;
     background-image: url("/media/swirl_pattern.png");
     .header_wrapper {
-        padding-top: 1.5%;
-    padding-bottom: 0.5%;
+        padding-top: 0.5%;
+        padding-bottom: 0.8%;
         /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#012a5f+0,023f71+100 */
         background: #012a5f;
         /* Old browsers */
@@ -26,11 +26,12 @@ header {
     .header_contents {
         @include container;
         .logo_wrapper {
-            width: 30%;
+            width: 50%;
             display: inline-block;
         }
         .search_wrapper {
-            width: 40%;
+            width: 49%;
+            text-align:right;
             display: inline-block;
         }
     }

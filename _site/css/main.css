@@ -133,7 +133,15 @@ h1,
     margin-bottom: 20px; }
   header h1, header
   .h1 {
-    color: #fff; }
+    color: #fff;
+    font-family: "proxima-nova", arial, sans-serif;
+    font-size: 3.4rem;
+    line-height: 1.2;
+    font-weight: 600; }
+    header h1 span, header
+    .h1 span {
+      font-size: 2.4rem;
+      font-weight: 100; }
 
 h2,
 .h2 {
@@ -202,8 +210,8 @@ header {
   height: auto;
   background-image: url("/media/swirl_pattern.png"); }
   header .header_wrapper {
-    padding-top: 1.5%;
-    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.8%;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#012a5f+0,023f71+100 */
     background: #012a5f;
     /* Old browsers */
@@ -225,10 +233,11 @@ header {
       header .header_contents {
         width: 90%; } }
     header .header_contents .logo_wrapper {
-      width: 30%;
+      width: 50%;
       display: inline-block; }
     header .header_contents .search_wrapper {
-      width: 40%;
+      width: 49%;
+      text-align: right;
       display: inline-block; }
 
 .main .main_contents {
@@ -758,7 +767,7 @@ label {
   margin-bottom: 5px; }
 
 .nav_wrapper {
-  background-color: #f7f7f7;
+  background-color: #fff;
   padding-bottom: 0px;
   border-bottom: 1px solid #C8C7CC;
   clear: both; }
