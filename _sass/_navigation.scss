@@ -11,9 +11,11 @@ nav {
         @include transition;
         background-color: $bg-color;
         padding: 1%;
-        padding-left:8px;
-        padding-right:8px;
         list-style-type: none;
+        a{
+            padding-left:8px;
+        padding-right:16px;
+        }
     }
 }
 
