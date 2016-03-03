@@ -108,6 +108,15 @@ p {
     font-size: 1.6rem;
     font-family: $sans-serif;
     color: $primary-font;
+    &.lead {
+        font-size:1.8rem;
+        font-family: "klinic_light";
+        color:$secondary-font;
+        margin-top:0px;
+        border-bottom:1px solid $borders;
+        padding-bottom:1%;
+        margin-bottom:1%;
+    }
     &.page_description {
         border-bottom: 1px solid $borders;
         margin-bottom: 4%;
@@ -160,7 +169,7 @@ h1,
     font-size: 2.8rem;
     margin-bottom: 5px;
     font-weight: 400;
-    color: $primary-font;
+    color: $secondary-font;
     .news_landing & {
         font-size: 2.8rem;
         color: $secondary-font;
