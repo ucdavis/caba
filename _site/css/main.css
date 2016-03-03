@@ -808,10 +808,8 @@ nav {
     -webkit-transform: translateZ(0);
     background-color: #F5F5F1;
     padding: 1%;
-    list-style-type: none; }
-    nav ul.submenu a {
-      padding-left: 8px;
-      padding-right: 16px; }
+    list-style-type: none;
+    padding-left: 8px; }
 
 #nav > ul {
   margin: 0px;
