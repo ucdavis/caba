@@ -240,17 +240,17 @@ header {
       text-align: right;
       display: inline-block; }
 
-.main .main_contents {
+main .main_contents {
   max-width: 1400px;
   width: 80%;
   margin: 0 auto;
   min-width: 300px;
   margin-top: 2%; }
   @media (max-width: 850px) {
-    .main .main_contents {
+    main .main_contents {
       width: 85%; } }
   @media (max-width: 640px) {
-    .main .main_contents {
+    main .main_contents {
       width: 90%; } }
 
 aside {
@@ -259,14 +259,14 @@ aside {
   vertical-align: top;
   padding-right: 2%;
   margin-top: 1%;
-  margin-right: 2%; }
+  margin-right: 2%;
+  margin-left: 5%;
+  padding-left: 1%; }
 
 article {
-  width: 67%;
+  width: 66%;
   display: inline-block;
-  vertical-align: top;
-  margin-left: 1%;
-  padding-left: 1%; }
+  vertical-align: top; }
 
 footer {
   margin-top: 4%;
@@ -446,7 +446,8 @@ pre {
 
 body {
   padding: 0px;
-  margin: 0px; }
+  margin: 0px;
+  background-color: #F5F5F1; }
 
 img {
   max-width: 100%; }
