@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CABA at UC Davis</title>
+    <title>Center for Aquatic Biology and Aquaculture</title>
     <description>The Center for Aquatic Biology and Aquaculture (CABA) was established to provide leadership, focus, and support to University of California Davis researchers in addressing problems associated with California’s cultured and wild aquatic biological resources.
 </description>
     <link>http://caba.ucdavis.edu/</link>
     <atom:link href="http://caba.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Mar 2016 13:09:44 -0800</pubDate>
-    <lastBuildDate>Wed, 09 Mar 2016 13:09:44 -0800</lastBuildDate>
+    <pubDate>Wed, 09 Mar 2016 13:28:12 -0800</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2016 13:28:12 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>

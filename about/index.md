@@ -28,7 +28,7 @@ permalink: /about/
 		    <li>Seafood processing and technology</li>
 		    <li>Genetic Improvement</li>
 	    </ul>
-	    <h2>Additional Information</h2>
+	    <!-- <h2>Additional Information</h2>
 	    <p>Related departments &amp; resources:</p>
 	    <div class="row">
 	    	<div class="six columns">
@@ -36,14 +36,14 @@ permalink: /about/
 <li><a href="http://www.agecon.ucdavis.edu/">Agricultural and Resource Economics</a></li><li><a href="http://animalscience.ucdavis.edu/">Animal Science</a></li>
 <li><a href="http://bae.engineering.ucdavis.edu/">Biological and Agricultural Engineering</a></li><li class="break"><a href="http://wfcb.ucdavis.edu/">Wildlife, Fish and Conservation Biology</a></li><li><a href="http://www.dbs.ucdavis.edu/">Biological Sciences</a></li>
 <li class="break"><a href="http://www.vetmed.ucdavis.edu/">Veterinary Medicine</a></li><li class="break"><a href="http://animalscience.ucdavis.edu/InStream/main.htm">Instream Flow Assessment Program</a></li><li><a href="http://studentaffairs.ucdavis.edu/">Current and Prospective UC Davis Students</a></li><li><a href="http://gradstudies.ucdavis.edu/">Office of Graduate Studies</a></li><li><a href="http://registrar.ucdavis.edu/UCDWebCatalog/">UC Davis General Catalog</a></li></ul></div>
-	    </div>
+	    </div> -->
 
 
     </article>
     <aside>
     	<div class="aside_col">
     		<ul>
-    			<li><a href="">Our Team</a></li>
+    			<li><a href="/about/people">Our Team</a></li>
     			<li><a href="">Request a Tour</a></li>
     			<li><a href="">Services</a></li>
     			<li><a href="">Contact</a></li>
