@@ -984,6 +984,25 @@ nav {
       .banner .banner_contents {
         width: 90%; } }
 
+.aside_col {
+  background-color: #fff;
+  padding: 5px; }
+  .aside_col ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 10px; }
+    .aside_col ul li {
+      padding: 10px 0px;
+      list-style-type: none;
+      border-bottom: 2px solid #002B61; }
+      .aside_col ul li:last-child {
+        border-bottom: none; }
+      .aside_col ul li a {
+        color: #002B61;
+        font-weight: 600;
+        font-size: 1.8rem;
+        text-transform: uppercase; }
+
 .news_landing {
   background-color: #F5F5F1;
   border-bottom: 1px solid #C8C7CC;

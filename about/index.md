@@ -29,7 +29,17 @@ permalink: /about/
 		    <li>Genetic Improvement</li>
 	    </ul>
     </article>
-    <aside></aside>
+    <aside>
+    	<div class="aside_col">
+    		<ul>
+    			<li><a href="">Our Team</a></li>
+    			<li><a href="">Request a Tour</a></li>
+    			<li><a href="">Services</a></li>
+    			<li><a href="">Contact</a></li>
+    			
+    		</ul>
+    	</div>
+    </aside>
 	    
 	        
     </div>
