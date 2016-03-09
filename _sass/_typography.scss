@@ -60,7 +60,14 @@ ol {
         list-style-type: none;
     }
 }
+ul.small_list {
+    li {
+        font-size:1.4rem;
+        a {
 
+        }
+    }
+}
 ul.event-info {
     li {
         b {
@@ -108,6 +115,8 @@ p {
     font-size: 1.6rem;
     font-family: $sans-serif;
     color: $primary-font;
+    margin-top:10px;
+    margin-bottom:10px;
     &.lead {
         font-size:1.8rem;
         font-family: "klinic_light";
@@ -169,7 +178,7 @@ h1,
     font-size: 2.8rem;
     margin-bottom: 5px;
     font-weight: 400;
-    color: $secondary-font;
+    color: $primary-font;
     .news_landing & {
         font-size: 2.8rem;
         color: $secondary-font;
@@ -218,7 +227,9 @@ h2,
         }
     }
 }
-
+h2 + p {
+    margin-bottom: 0px;
+}
 h3,
 .h3 {
     font-size: 2rem;
