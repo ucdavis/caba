@@ -238,7 +238,6 @@ header {
     background: linear-gradient(to bottom, #012a5f 0%, #023f71 100%);
     opacity: .85; }
   header .header_contents {
-    max-width: 1400px;
     width: 80%;
     margin: 0 auto;
     min-width: 300px; }
@@ -249,15 +248,14 @@ header {
       header .header_contents {
         width: 90%; } }
     header .header_contents .logo_wrapper {
-      width: 50%;
+      width: 69%;
       display: inline-block; }
     header .header_contents .search_wrapper {
-      width: 49%;
+      width: 30%;
       text-align: right;
       display: inline-block; }
 
 .main .main_contents {
-  max-width: 1400px;
   width: 80%;
   margin: 0 auto;
   min-width: 300px;
@@ -270,12 +268,10 @@ header {
       width: 90%; } }
 
 aside {
-  width: 25%;
+  width: 28%;
   display: inline-block;
   vertical-align: top;
-  padding-right: 2%;
   margin-top: 1%;
-  margin-right: 2%;
   margin-left: 5%;
   padding-left: 1%; }
 
@@ -285,23 +281,26 @@ article {
   vertical-align: top; }
 
 footer {
-  margin-top: 4%;
-  margin-bottom: 4%; }
-  footer .footer_contents {
-    max-width: 1400px;
-    width: 80%;
-    margin: 0 auto;
-    min-width: 300px; }
-    @media (max-width: 850px) {
-      footer .footer_contents {
-        width: 85%; } }
-    @media (max-width: 640px) {
-      footer .footer_contents {
-        width: 90%; } }
-    footer .footer_contents .foot_top {
-      border-bottom: 1px solid #C8C7CC;
-      padding-bottom: 4px;
-      margin-bottom: 8px; }
+  position: fixed;
+  padding-bottom: 4%;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+  width: 80%; }
+  @media (max-width: 850px) {
+    footer {
+      width: 85%;
+      left: 7.5%;
+      right: 7.5%; } }
+  @media (max-width: 640px) {
+    footer {
+      width: 90%;
+      right: 5%;
+      left: 5%; } }
+  footer .footer_contents .foot_top {
+    border-bottom: 1px solid #C8C7CC;
+    padding-bottom: 4px;
+    margin-bottom: 8px; }
 
 /**
  * Code formatting
@@ -684,7 +683,7 @@ input[type="button"].button-primary:focus {
     width: 100%; }
   .image-gallery .image_3 {
     width: 47%;
-    margin-right: 5%;
+    margin-right: 4.7%;
     margin-top: 2.9%;
     display: inline-block; }
   .image-gallery .image_4 {
@@ -821,7 +820,6 @@ label {
   clear: both; }
 
 nav {
-  max-width: 1400px;
   width: 80%;
   margin: 0 auto;
   min-width: 300px; }
@@ -831,14 +829,6 @@ nav {
   @media (max-width: 640px) {
     nav {
       width: 90%; } }
-  nav ul.submenu {
-    transition: 0.3s ease-in;
-    -webkit-transition: 0.3s ease-in;
-    -webkit-transform: translateZ(0);
-    background-color: #F5F5F1;
-    padding: 1%;
-    list-style-type: none;
-    padding-left: 8px; }
 
 #nav > ul {
   margin: 0px;
@@ -848,7 +838,6 @@ nav {
   position: relative; }
   #nav li a {
     font-size: 1.4rem;
-    text-transform: uppercase;
     font-weight: 500;
     display: block;
     color: #505050; }
@@ -869,22 +858,34 @@ nav {
     #nav > ul > li > a {
       line-height: 2.5em;
       text-align: left;
+      text-transform: uppercase;
       font-size: 1.6rem;
       padding: 4px 20px; }
       #nav > ul > li > a.active {
         color: #DDB307;
         background-color: #fff; }
 
-/* second level */
-#nav li ul {
+/* second level Submenu */
+ul.submenu {
+  transition: 0.3s ease-in;
+  -webkit-transition: 0.3s ease-in;
+  -webkit-transform: translateZ(0);
+  background-color: #F5F5F1;
+  list-style-type: none;
+  padding: 0px 8px;
   background-color: #fff;
   display: none;
   position: absolute;
   top: 100%; }
-  #nav li ul a {
+  ul.submenu a {
+    font-size: 1.4rem;
     color: #505050; }
-    #nav li ul a:hover {
+    ul.submenu a:hover {
       color: #CFA21A; }
+  ul.submenu li {
+    border-bottom: 1px solid #C8C7CC; }
+    ul.submenu li:last-child {
+      border-bottom: none; }
 
 #nav li:hover ul {
   display: block;
@@ -1002,7 +1003,6 @@ nav {
     .banner.banner_fish p {
       text-shadow: 1px 1px 2px #1c1c1c; }
   .banner .banner_contents {
-    max-width: 1400px;
     width: 80%;
     margin: 0 auto;
     min-width: 300px; }
@@ -1031,6 +1031,8 @@ nav {
         font-weight: 600;
         font-size: 1.4rem;
         text-transform: uppercase; }
+        .aside_col ul li a:hover {
+          color: #DDB307; }
 
 .news_landing {
   background-color: #F5F5F1;
@@ -1040,7 +1042,6 @@ nav {
   padding-top: 2%;
   margin-top: -29px; }
   .news_landing .news_landing_contents {
-    max-width: 1400px;
     width: 80%;
     margin: 0 auto;
     min-width: 300px; }

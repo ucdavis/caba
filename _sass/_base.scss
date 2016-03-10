@@ -26,11 +26,11 @@ header {
     .header_contents {
         @include container;
         .logo_wrapper {
-            width: 50%;
+            width: 69%;
             display: inline-block;
         }
         .search_wrapper {
-            width: 49%;
+            width: 30%;
             text-align:right;
             display: inline-block;
         }
@@ -49,12 +49,10 @@ header {
 }
 
 aside {
-    width: 25%;
+    width: 28%;
     display: inline-block;
     vertical-align: top;
-    padding-right: 2%;
     margin-top: 1%;
-    margin-right: 2%;
     margin-left: 5%;
     padding-left: 1%;
 }
@@ -66,10 +64,23 @@ article {
 }
 
 footer {
-    margin-top: 4%;
-    margin-bottom: 4%;
+    position:fixed;
+    padding-bottom:4%;
+    bottom:0;
+    left:10%;
+    right:10%;
+    width:80%;
+    @include breakpoint(rufus) {
+      width:85%;
+      left:7.5%;
+      right:7.5%;
+    }
+    @include breakpoint(mobileonly) {
+        width: 90%;
+        right:5%;
+        left:5%;
+    }
     .footer_contents {
-        @include container;
         .foot_top {
             border-bottom: 1px solid $borders;
             padding-bottom: 4px;
