@@ -676,24 +676,19 @@ input[type="button"].button-primary:focus {
     display: inline-block; }
   .image-gallery .image_1 {
     width: 58%;
-    vertical-align: top;
-    background-color: orange; }
+    vertical-align: top; }
   .image-gallery .small_wrapper {
-    background-color: black;
-    width: 38%;
-    margin-left: 2%; }
+    width: 39.5%;
+    margin-left: 1.4%; }
   .image-gallery .image_2 {
-    background-color: green;
     width: 100%; }
   .image-gallery .image_3 {
-    background-color: pink;
-    width: 46%;
-    margin-right: 7%;
-    margin-top: 8%;
+    width: 47%;
+    margin-right: 5%;
+    margin-top: 2.9%;
     display: inline-block; }
   .image-gallery .image_4 {
-    background-color: purple;
-    width: 46%;
+    width: 47%;
     display: inline-block; }
 
 .image-wrapper {
