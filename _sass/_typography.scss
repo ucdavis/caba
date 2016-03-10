@@ -92,7 +92,7 @@ ul.footer-list {
         padding-left: 0px;
         font-family: $sans-serif;
         font-weight: 200;
-        color: $tertiary-font;
+        color: $secondary-font;
         margin-top: 4px;
         .foot_bottom & {
             border-right: none;
@@ -120,7 +120,7 @@ p {
     &.lead {
         font-size:1.8rem;
         font-family: "klinic_light";
-        color:$secondary-font;
+        color:#000;
         margin-top:0px;
         border-bottom:1px solid $borders;
         padding-bottom:1%;
@@ -201,7 +201,7 @@ h1,
 
 h2,
 .h2 {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     font-weight: 400;
     .banner & {
         color: #fff;

@@ -64,7 +64,7 @@ ul.footer-list {
     padding-left: 0px;
     font-family: "proxima-nova", arial, sans-serif;
     font-weight: 200;
-    color: #B8B8B8;
+    color: #505050;
     margin-top: 4px; }
     .foot_bottom ul.footer-list li {
       border-right: none;
@@ -87,7 +87,7 @@ p {
   p.lead {
     font-size: 1.8rem;
     font-family: "klinic_light";
-    color: #505050;
+    color: #000;
     margin-top: 0px;
     border-bottom: 1px solid #C8C7CC;
     padding-bottom: 1%;
@@ -158,7 +158,7 @@ h1,
 
 h2,
 .h2 {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   font-weight: 400; }
   .banner h2, .banner
   .h2 {
@@ -666,9 +666,6 @@ input[type="button"].button-primary:focus {
   content: "";
   display: table;
   clear: both; }
-
-.section_divider {
-  margin-bottom: 10%; }
 
 .image-wrapper {
   width: auto;
