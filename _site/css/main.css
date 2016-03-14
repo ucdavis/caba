@@ -303,13 +303,6 @@ footer {
       padding-bottom: 4px;
       margin-bottom: 8px; }
 
-.page-wrap {
-  /* equal to footer height */ }
-
-.page-wrap:after {
-  content: "";
-  display: block; }
-
 * {
   margin: 0; }
 
