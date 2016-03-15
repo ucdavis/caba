@@ -6,7 +6,7 @@ author: "Admin"
 date:   2015-05-06 22:11:38
 tags: "Rugby"
 category: "news"
-image: /media/news/sustainable_fisheries.jpeg
+image: /media/news/fisheries_small.jpeg
 image-caption: Fisheries need to improve sustainable practices before doing business on global seafood market. (Simon Bush/photo)
 ---
 <p>This article appeared in UCD Dateline on May 5, 2015.</p>
