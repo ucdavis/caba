@@ -7,7 +7,7 @@ date:   2015-05-06 22:11:38
 tags: "Rugby"
 category: "news"
 image: /media/news/fisheries_small.jpeg
-image-caption: Fisheries need to improve sustainable practices before doing business on global seafood market. (Simon Bush/photo)
+image-caption: "Fisheries need to improve sustainable practices before doing business on global seafood market. (Simon Bush/photo)"
 ---
 <p>This article appeared in UCD Dateline on May 5, 2015.</p>
 <p>Demand for seafood from wild fisheries and aquaculture around the world has nearly doubled over the past four decades. In the past several years, major retailers in developed countries have committed to source their seafood from only sustainably certified fisheries and aquaculture, even though it is not clear where that supply will come from.</p>
