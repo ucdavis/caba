@@ -1,5 +1,23 @@
 
 
+//tables
+table {
+    width: 100%;
+}
+
+td {
+    font-family: $sans-serif;
+    font-size: 1.6rem;
+    vertical-align: middle;
+}
+
+th {
+    font-family: $serif;
+    font-size: 2rem;
+    font-weight: 400;
+    text-align: left;
+}
+
 // ul {
 //     li {
 //         &.bullet-divider:after {
