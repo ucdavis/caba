@@ -155,6 +155,11 @@ h1,
     .h1 span {
       font-size: 2.4rem;
       font-weight: 100; }
+  .banner h1, .banner
+  .h1 {
+    color: #fff;
+    font-size: 3.4rem;
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4); }
 
 h2,
 .h2 {
@@ -864,7 +869,8 @@ ul.submenu {
   .banner.banner_fish {
     background-image: url(/media/fish_banner.jpg);
     background-size: cover;
-    background-repeat: no-repeat; }
+    background-repeat: no-repeat;
+    height: 150px; }
     .banner.banner_fish h2,
     .banner.banner_fish p {
       text-shadow: 1px 1px 2px #1c1c1c; }
@@ -920,7 +926,7 @@ ul.submenu {
     .news_landing .news_landing_contents .news_landing_current {
       display: inline-block;
       vertical-align: top;
-      width: 75%; }
+      width: 100%; }
       @media (max-width: 640px) {
         .news_landing .news_landing_contents .news_landing_current {
           width: 66%; } }
