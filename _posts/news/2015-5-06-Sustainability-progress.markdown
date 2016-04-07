@@ -9,6 +9,8 @@ category: "news"
 image: /media/news/fisheries_small.jpeg
 image-caption: "Fisheries need to improve sustainable practices before doing business on global seafood market. (Simon Bush/photo)"
 ---
+
+
 <p>This article appeared in UCD Dateline on May 5, 2015.</p>
 <p>Demand for seafood from wild fisheries and aquaculture around the world has nearly doubled over the past four decades. In the past several years, major retailers in developed countries have committed to source their seafood from only sustainably certified fisheries and aquaculture, even though it is not clear where that supply will come from.</p>
 <p>A team of researchers led by the University of California, Davis, has focused its attention on fishery improvement projects, or FIPs, which are designed to bring seafood from wild fisheries to the certified market, with only a promise of sustainability in the future. They conclude that FIPs need to be fine tuned to ensure that fisheries are delivering on their promises. The researchers’ policy forum titled “Secure Sustainable Seafood from Developing Countries” will be published May 1 in the journal Science. The related abstract and podcast are available online at: <a href="http://www.sciencemag.org/content/348/6234/504.summary">http://www.sciencemag.org/content/348/6234/504.summary</a></p>

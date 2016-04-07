@@ -3,7 +3,7 @@ layout: article
 title:  "Abstracts of the 2012 Scholarship Winners"
 description: ""
 author: "Admin"
-date:   2012-04-17 21:13:40
+date:   2012-04-18 22:58:09
 tags: "Rugby"
 category: "news"
 image: 
