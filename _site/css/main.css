@@ -925,7 +925,7 @@ ul.submenu {
     .news_landing .news_landing_contents .news_landing_current {
       display: inline-block;
       vertical-align: top;
-      width: 100%; }
+      width: 73%; }
       @media (max-width: 640px) {
         .news_landing .news_landing_contents .news_landing_current {
           width: 66%; } }
@@ -1025,6 +1025,18 @@ ul.news-list-main li {
  * http://www.opensource.org/licenses/mit-license.php
  */
 /* The Nivo Slider styles */
+.slider-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  min-width: 300px;
+  margin-top: 20px; }
+  @media (max-width: 850px) {
+    .slider-wrapper {
+      width: 85%; } }
+  @media (max-width: 640px) {
+    .slider-wrapper {
+      width: 90%; } }
+
 .nivoSlider {
   position: relative;
   width: 100%;

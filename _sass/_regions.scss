@@ -55,7 +55,7 @@
         .news_landing_current {
             display: inline-block;
             vertical-align: top;
-            width: 100%;
+            width: 73%;
             @include breakpoint(mobileonly) {
                 width: 66%
             }

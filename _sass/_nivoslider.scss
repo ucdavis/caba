@@ -9,7 +9,10 @@
 
 
 /* The Nivo Slider styles */
-
+.slider-wrapper {
+    @include container;
+    margin-top:20px;
+}
 .nivoSlider {
     position: relative;
     width: 100%;
