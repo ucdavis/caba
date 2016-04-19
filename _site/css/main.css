@@ -676,6 +676,9 @@ form input.search_input {
   margin-top: 6px;
   box-sizing: inherit !important; }
 
+.st-ui-stamp {
+  display: none !important; }
+
 label {
   display: block;
   font-family: "proxima-nova", arial, sans-serif;
@@ -991,11 +994,11 @@ ul.feed-list li {
   .event-date .event-date-wrapper {
     width: 90px; }
     .event-date .event-date-wrapper:hover span.event-month {
-      background: #d20e35; }
+      background: #623624; }
   .event-date span.event-month {
     display: block;
     padding: 4px 1px;
-    background: #ba0c2f;
+    background: #4f2c1d;
     color: #fff;
     text-align: center; }
   .event-date span.event-day {

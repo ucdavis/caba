@@ -47,6 +47,7 @@ $gold: #DDB307;
 $mint-green: #028474;
 // UC Davis Colors
 // Supplemental bright color palette for UC Davis
+
 $unitrans-red: #ba0c2f;
 $western-redbud: #c6007e;
 $california-poppy: #ed8800;
@@ -55,6 +56,7 @@ $sunny-grass: #78be20;
 $sky-blue: #00b5e2;
 $recpool-blue: #008eaa;
 $wine-grape: #642667;
+
 // Supplemental neutral color palette for UC Davis
 $mu-brick: #c26e60;
 $harthall-stucco: #e6a65d;
@@ -64,6 +66,7 @@ $wintersky-gray: #5b7f95;
 $cenwalk-gray: #b1b3b3;
 $cork-oak: #aca39a;
 $shingle-brown: #4f2c1d;
+
 // mixins
 @mixin breakpoint($point) {
     @if $point==hdres {

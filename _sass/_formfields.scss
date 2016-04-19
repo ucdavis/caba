@@ -22,6 +22,10 @@ form {
         box-sizing:inherit !important;
     }
 }
+// no swift type
+.st-ui-stamp {
+    display:none !important;
+}
 
 label {
     display: block;

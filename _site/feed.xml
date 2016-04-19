@@ -6,8 +6,8 @@
 </description>
     <link>http://caba.ucdavis.edu/</link>
     <atom:link href="http://caba.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 15:49:35 -0700</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 15:49:35 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2016 15:05:38 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 15:05:38 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -61,35 +61,7 @@ Please email completed applications to &lt;a href=&quot;mailto:jlboulanger@ucdav
       </item>
     
       <item>
-        <title>College Celebration</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 23 Nov 2015 04:25:17 -0800</pubDate>
-        <link>http://caba.ucdavis.edu/events/2015/11/23/news-article/</link>
-        <guid isPermaLink="true">http://caba.ucdavis.edu/events/2015/11/23/news-article/</guid>
-        
-        <category>Apple</category>
-        
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>UC Davis Apple Harvest</title>
+        <title>Fish Nursery Habitat</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -104,13 +76,13 @@ Please email completed applications to &lt;a href=&quot;mailto:jlboulanger@ucdav
 
 </description>
         <pubDate>Tue, 22 Sep 2015 09:25:17 -0700</pubDate>
-        <link>http://caba.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://caba.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
+        <link>http://caba.ucdavis.edu/seminar/2015/09/22/Fish-Nursery-Habitat/</link>
+        <guid isPermaLink="true">http://caba.ucdavis.edu/seminar/2015/09/22/Fish-Nursery-Habitat/</guid>
         
         <category>Apple</category>
         
         
-        <category>events</category>
+        <category>seminar</category>
         
       </item>
     
@@ -473,6 +445,57 @@ For more information… &lt;a href=&quot;http://animalscience.ucdavis.edu/Coastw
         <pubDate>Thu, 17 May 2012 08:45:57 -0700</pubDate>
         <link>http://caba.ucdavis.edu/news/2012/05/17/Coastwide-Salmonid-Genetics-Meeting/</link>
         <guid isPermaLink="true">http://caba.ucdavis.edu/news/2012/05/17/Coastwide-Salmonid-Genetics-Meeting/</guid>
+        
+        <category>Rugby</category>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Abstracts of the 2012 Scholarship Winners</title>
+        <description>&lt;section&gt;
+&lt;p&gt;&lt;b&gt;Rob Lusardi&lt;/b&gt; was awarded one of two scholarships from the &lt;b&gt;Marin Rod and Gun Club&lt;/b&gt;. He is a doctoral student under Drs. Peter Moyle and Jeffrey Mount and works at the UC Davis Center for Watershed Sciences.  &lt;/p&gt;  
+
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Spatial Proximity to Source Springs: Effects of Habitat and Resources on Steelhead Growth.&lt;/i&gt;&lt;/b&gt;
+Spring-fed rivers are rarely studied ecosystems, but offer a high intrinsic potential for Pacific salmonid recovery due to their unique habitat conditions. Spatial proximity to spring sources may indirectly benefit juvenile steelhead growth through changes in both water temperature and inorganic nitrate concentrations; the latter strongly affecting functional habitat and resource benefits. This proposal aims to understand the physical and ecological mechanisms contributing to steelhead growth in spring-fed rivers in order to conserve this imperiled species and its habitat for future generations.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;p&gt;  *   *   *   *   *   *   *   *   *   *&lt;/p&gt;
+
+&lt;section&gt;
+&lt;p&gt;&lt;b&gt;Emily Peffer&lt;/b&gt; was awarded one of two scholarships from the &lt;b&gt;Marin Rod and Gun Club&lt;/b&gt;. She is a doctoral candidate under Dr. Truman Young in the UC Davis Department of Plant Sciences and a member of the Conservation Management Program. &lt;/p&gt;  
+
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Implications of Riparian Restoration to Macrophyte Communities.&lt;/i&gt;&lt;/b&gt;
+Riparian restoration is a widely accepted method for improving stream fisheries, particularly by providing temperature-cooling shade. Restoration often involves removing invasive riparian species and planting natives which decrease or increase, respectively, light available to stream beds. Emily’s research studies how altered light levels impact growth, competition and invasion potential of aquatic plants.  Aquatic plants provide habitat for invertebrates and other prey for fish, but too much aquatic vegetation can smother spawning habitat and slow stream flows. Therefore, understanding how aquatic plant communities respond to riparian restoration is important for fisheries management. Funding will help pay for supplies for her experiments.  &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;p&gt;  *   *   *   *   *   *   *   *   *   *&lt;/p&gt;
+
+&lt;section&gt;
+&lt;p&gt;&lt;b&gt;Anna Steel&lt;/b&gt; was awarded the &lt;b&gt;Bob Wisecarver scholarship from the Diablo Valley Fly Fishermen&lt;/b&gt; club. She is a doctoral candidate working in the Biotelemetry Laboratory under Dr. Peter Klimley of the Department of Wildlife, Fish and Conservation Biology at UC Davis.&lt;/p&gt;  
+
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Largemouth Bass in the Sacramento-San Joaquin Delta.&lt;/i&gt;&lt;/b&gt;
+Anna’s research uses ultrasonic telemetry to examine the behavior and role of largemouth bass in the Delta ecosystem to predict how the fish may respond to future changes in management practices.  The largemouth is an introduced predator which plays a dominant role in structuring shallow-water communities where it exists, and is also a much-loved sport fish which draws thousands of people to the Delta each year.&lt;/p&gt; 
+&lt;p&gt;The funds from this scholarship will be used to finalize her data collection, provide support and software for the data analysis and allow her to attend local and regional conferences to share her work with managers and fellow scientists. 
+ &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;p&gt;  *   *   *   *   *   *   *   *   *   *&lt;/p&gt;
+
+&lt;section&gt;
+&lt;p&gt;&lt;b&gt;Rosemary Hartman&lt;/b&gt; was awarded the &lt;b&gt;Bob Bittner scholarship from California Fly Fishers Unlimited&lt;/b&gt;.  She is a doctoral student in the laboratory of Dr. Sharon Lawler in the UC Davis Department of Entomology.   &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Mechanisms of coexistence between recreational fisheries and native amphibians.
+&lt;/i&gt;&lt;/b&gt;Fish stocked in mountain lakes for recreational fisheries provide important resources for rural economies and wilderness conservation.  However, the fish are an introduced predator that can threaten the native community.  Rosemary is studying ways in which native species adapt to fish introductions, both through behavioral changes and differential use of microhabitat that may allow them to coexist.  She has been working with the California Department of Fish and Game to use her findings to help inform stocking decisions so recreational fisheries can be balanced with biodiversity concerns. 
+
+
+&lt;/p&gt;&lt;/section&gt;
+</description>
+        <pubDate>Wed, 18 Apr 2012 15:58:09 -0700</pubDate>
+        <link>http://caba.ucdavis.edu/news/2012/04/18/Abstracts-of-the-2012-Scholarship-Winners/</link>
+        <guid isPermaLink="true">http://caba.ucdavis.edu/news/2012/04/18/Abstracts-of-the-2012-Scholarship-Winners/</guid>
         
         <category>Rugby</category>
         
