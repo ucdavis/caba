@@ -3,7 +3,7 @@ layout: seminar
 title:  "Fish Nursery Habitat"
 description: "Apple's aplenty for all at UC Davis"
 author: "Cal Doval"
-date:   2015-09-22 16:25:17
+date:   2015-05-30
 event-contact: Calvin Doval
 event-email: cydoval@mac.com
 event-location: 38 Mrak
@@ -12,17 +12,12 @@ tags: "Apple"
 category: "seminar"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Co-sponsored by: UC Davis, Center for Aquatic Biology & Aquaculture (CABA)
+CALFED Bay-Delta Program
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<ul>
+<li><a title="May30_SeminarFlyer.pdf" class="internal-link" href="/media/seminars/May30_SeminarFlyer.pdf">Program Flyer</a></li>
+<li>Stacy Luthy — Assistant Professor, Biological Sciences, University of the Pacific</li>
+<li>Video: (<a class="external-link" href="http://webcast.ucdavis.edu/CABA/2008/CABA_Luthy.asx">WMA Format</a> | <a class="external-link" href="http://webcast.ucdavis.edu/CABA/2008/CABA_Luthy.qtl">Quicktime</a>)</li>
+</ul>
 
