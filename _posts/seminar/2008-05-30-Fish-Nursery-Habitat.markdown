@@ -3,12 +3,10 @@ layout: seminar
 title:  "Fish Nursery Habitat"
 description: "Apple's aplenty for all at UC Davis"
 author: "Cal Doval"
-date:   2015-05-30
-event-contact: Calvin Doval
-event-email: cydoval@mac.com
+date:   2008-05-30
+time: 10:00 am
 event-location: 38 Mrak
-event-button: http://cydoval.com/
-tags: "Apple"
+
 category: "seminar"
 ---
 

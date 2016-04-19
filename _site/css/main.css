@@ -45,9 +45,6 @@ ol {
 ul.small_list li {
   font-size: 1.4rem; }
 
-ul.event-info li b {
-  color: #ba0c2f; }
-
 ul.footer-list {
   list-style-type: none;
   padding-left: 0px;
@@ -245,7 +242,8 @@ header {
   header .header_contents {
     width: 80%;
     margin: 0 auto;
-    min-width: 300px; }
+    min-width: 300px;
+    max-width: 1400px; }
     @media (max-width: 850px) {
       header .header_contents {
         width: 85%; } }
@@ -264,6 +262,7 @@ header {
   width: 80%;
   margin: 0 auto;
   min-width: 300px;
+  max-width: 1400px;
   margin-top: 2%; }
   @media (max-width: 850px) {
     .main .main_contents {
@@ -296,7 +295,8 @@ footer {
   footer .footer_contents {
     width: 80%;
     margin: 0 auto;
-    min-width: 300px; }
+    min-width: 300px;
+    max-width: 1400px; }
     @media (max-width: 850px) {
       footer .footer_contents {
         width: 85%; } }
@@ -697,7 +697,8 @@ label {
 nav {
   width: 80%;
   margin: 0 auto;
-  min-width: 300px; }
+  min-width: 300px;
+  max-width: 1400px; }
   @media (max-width: 850px) {
     nav {
       width: 85%; } }
@@ -880,7 +881,8 @@ ul.submenu {
   .banner .banner_contents {
     width: 80%;
     margin: 0 auto;
-    min-width: 300px; }
+    min-width: 300px;
+    max-width: 1400px; }
     @media (max-width: 850px) {
       .banner .banner_contents {
         width: 85%; } }
@@ -919,7 +921,8 @@ ul.submenu {
   .news_landing .news_landing_contents {
     width: 80%;
     margin: 0 auto;
-    min-width: 300px; }
+    min-width: 300px;
+    max-width: 1400px; }
     @media (max-width: 850px) {
       .news_landing .news_landing_contents {
         width: 85%; } }
@@ -985,6 +988,9 @@ ul.feed-list li {
   ul.feed-list li:last-child {
     border-bottom: none; }
 
+ul.event-info li b {
+  color: #4f2c1d; }
+
 .event-date {
   display: inline-block;
   vertical-align: top;
@@ -1033,6 +1039,7 @@ ul.news-list-main li {
   width: 80%;
   margin: 0 auto;
   min-width: 300px;
+  max-width: 1400px;
   margin-top: 20px; }
   @media (max-width: 850px) {
     .slider-wrapper {

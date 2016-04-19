@@ -132,6 +132,7 @@ $shingle-brown: #4f2c1d;
     width: 80%;
     margin: 0 auto;
     min-width: 300px;
+    max-width:1400px;
     @include breakpoint(rufus) {
       width:85%;
     }

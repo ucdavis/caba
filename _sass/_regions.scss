@@ -127,7 +127,13 @@ ul.feed-list {
 ul.events-list-main {
     li {}
 }
-
+ul.event-info {
+    li {
+        b {
+            color: $shingle-brown;
+        }
+    }
+}
 .event-date {
     display: inline-block;
     vertical-align: top;
