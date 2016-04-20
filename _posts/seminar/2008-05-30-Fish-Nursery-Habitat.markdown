@@ -5,7 +5,6 @@ description: " Unraveling the Secrets of the Estuary for Population Health "
 author: "Cal Doval"
 date:   2008-05-30
 time: 10:00 am
-event-location: 38 Mrak
 category: "seminar"
 ---
 

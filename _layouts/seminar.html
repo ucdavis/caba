@@ -4,12 +4,20 @@ layout: default
 
 <div class="main">
     <div class="main_contents">
+        
+        <article>
+            <h1 class="document_heade">{{ page.title }}</h1>
+            <p class="lead">{{ page.description }}</p>
+            <p>{{ content }}</p>
+        </article>
         <aside>
             <h3>Event Info</h3>
             <ul class="event-info no-bullet">
                 <li><b>Date:</b> {{ page.date | date: "%B %-d, %Y" }}</li>
                 <li><b>Time:</b> {{ page.time }}</li>
+                {% if page.location %}
                 <li><b>Location:</b> {{ page.event-location }}</li>
+                {% endif %}
                 {% if page.contact %}
                 <li><b>Contact:</b> <a href="mailto:{{ page.event-email }}">{{ page.event-contact }}</a></li> 
                 {% endif %}
@@ -19,10 +27,5 @@ layout: default
                 {% endif %}
             </ul>
         </aside>
-        <article>
-            <h1 class="document_heade">{{ page.title }}</h1>
-            <p class="lead">{{ page.description }}</p>
-            <p>{{ content }}</p>
-        </article>
     </div>
 </div>
