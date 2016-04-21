@@ -9,21 +9,22 @@ layout: default
             <ul class="feed-list">
                 {% for post in site.categories.seminar %}
                 <li>
-                     <div class="event-date">
-                <div class="event-date-wrapper">
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                         <span class="event-month">{{ post.date | date: '%b' }}</span>
-                        <span class="event-day">
-                          {% assign d = post.date | date: "%-d" %}
-                          {% case d %}
-                            {% when '1' or '21' or '31' %}{{ d }}st
-                            {% when '2' or '22' %}{{ d }}nd
-                            {% when '3' or '23' %}{{ d }}rd
-                            {% else %}{{ d }}th
-                            {% endcase %}
-                        </span>
-                    </a>
-                </div>
+                <div class="event-date">
+                <p class="event-year">{{ post.date | date: '%Y' }}</p>
+                    <div class="event-date-wrapper">
+                        <a href="{{ post.url | prepend: site.baseurl }}">
+                            <span class="event-month">{{ post.date | date: '%b' }}</span>
+                            <span class="event-day">
+                                          {% assign d = post.date | date: "%-d" %}
+                                          {% case d %}
+                                            {% when '1' or '21' or '31' %}{{ d }}st
+                                            {% when '2' or '22' %}{{ d }}nd
+                                            {% when '3' or '23' %}{{ d }}rd
+                                            {% else %}{{ d }}th
+                                            {% endcase %}
+                                        </span>
+                        </a>
+                    </div>
                 </div>
                 <div class="event-main">
                     <h2 class="feed-title">
