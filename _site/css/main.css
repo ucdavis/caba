@@ -260,10 +260,19 @@ header {
     header .header_contents .logo_wrapper {
       width: 69%;
       display: inline-block; }
+      @media (max-width: 640px) {
+        header .header_contents .logo_wrapper {
+          width: 100%;
+          text-align: center; } }
     header .header_contents .search_wrapper {
       width: 30%;
       text-align: right;
       display: inline-block; }
+      @media (max-width: 640px) {
+        header .header_contents .search_wrapper {
+          width: 100%;
+          text-align: center;
+          margin-top: 10px; } }
 
 .main .main_contents {
   width: 80%;
@@ -285,11 +294,21 @@ aside {
   margin-top: 1%;
   margin-left: 5%;
   padding-left: 1%; }
+  @media (max-width: 640px) {
+    aside {
+      width: 100%;
+      margin-left: 0px;
+      padding-left: 0px; } }
 
 article {
   width: 66%;
   display: inline-block;
   vertical-align: top; }
+  @media (max-width: 640px) {
+    article {
+      width: 100%;
+      margin-left: 0px;
+      padding-left: 0px; } }
 
 footer {
   position: absolute;
@@ -565,7 +584,7 @@ th {
     margin-top: 2.9%;
     display: inline-block; }
   .image-gallery .image_4 {
-    width: 47%;
+    width: 46.5%;
     display: inline-block; }
 
 .image-wrapper {

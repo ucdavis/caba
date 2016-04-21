@@ -28,11 +28,21 @@ header {
         .logo_wrapper {
             width: 69%;
             display: inline-block;
+            @include breakpoint(mobileonly) {
+                width:100%;
+                text-align:center;
+                
+            }
         }
         .search_wrapper {
             width: 30%;
             text-align:right;
             display: inline-block;
+            @include breakpoint(mobileonly) {
+                width:100%;
+                text-align:center;
+                margin-top:10px;
+            }
         }
     }
 }
