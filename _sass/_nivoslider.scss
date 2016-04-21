@@ -12,6 +12,7 @@
 .slider-wrapper {
     @include container;
     margin-top:20px;
+    min-height:435px; 
 }
 .nivoSlider {
     position: relative;
