@@ -16,7 +16,7 @@ layout: default
                 <li><b>Date:</b> {{ page.date | date: "%B %-d, %Y" }}</li>
                 <li><b>Time:</b> {{ page.time }}</li>
                 {% if page.location %}
-                <li><b>Location:</b> {{ page.event-location }}</li>
+                <li><b>Location:</b> {{ page.location }}</li>
                 {% endif %}
                 {% if page.contact %}
                 <li><b>Contact:</b> <a href="mailto:{{ page.event-email }}">{{ page.event-contact }}</a></li> 

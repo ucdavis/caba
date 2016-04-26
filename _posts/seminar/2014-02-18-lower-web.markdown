@@ -1,0 +1,64 @@
+---
+layout: seminar
+title:  "Lower Food Web Dynamics in California's Bay-Delta EcoSystem:"
+description: "Current Understanding and Future Interactions with a Changing Landscape"
+author: Erik Hallen
+date:   2014-02-18
+time: 10:00 am
+category: "seminar"
+
+---
+<p>
+	Seminar Objective – Broad decadal declines of lower pelagic fish populations in California’s Bay-Delta ecosystem, with concomitant declines in primary and secondary productivity, have driven policy, management, and regulatory efforts to identify approaches that will restore the pelagic food web. The science and management community working in this system are poised to embark on planning and restoration activities that will encompass large portions of this diverse landscape, yet evidence directly linking shallow aquatic habitat restoration and pelagic food webs remains uncertain. This symposium will characterize the major components and factors affecting the lower pelagic food web - e.g. nutrient supplies, phytoplankton production, flow/transport/flux, benthic grazing – and explore potential interaction/feedback between these factors and proposed restoration and management activities in the Delta. These dynamic and interconnected factors must be considered through an interdisciplinary perspective to identify the best path forward. This event will provide a forum to synthesize knowledge and lessons learned, both in California’s and other estuarine systems around the world, and stimulate discussion to identify research and management actions that will support effective restoration activities and promote resilient aquatic ecosystems.
+</p>
+
+<img class="image-right captioned" src="/media/lower_web.png" alt="BayDelta EcoSystem" />
+<p><strong><br /></strong></p>
+<p>
+    <br /><strong>Guest speakers will include: </strong></p>
+<p></p>
+<p><em>Sami Souissi, University of Lille, France<br />Mark Brush, Virginia Institute of Marine Sciences<br />Wim Kimmerer Romberg Tiburon Center<br />Lisa Lucas, USGS<br />Alex Parker, California Maritime Academy<br />Jan Thompson, USGS</em></p>
+<p><strong><br /></strong></p>
+<p><strong><em>Follow link below for video of seminar...</em> <br /></strong></p>
+<p><strong><a class="external-link" href="http://webcast.ucdavis.edu/llnd/4a120027">http://webcast.ucdavis.edu/llnd/4a120027</a><br /></strong></p>
+<p><strong><br /></strong></p>
+<p><strong>Agenda – <br /></strong></p>
+<p><strong>Tuesday, February 18 2014 UC Davis ARC Ballroom<br /> 8:30 - Welcome and Opening Remarks</strong> – <em>Dr. Peter Goodwin, Lead Scientist Delta Science Program &amp;<br /> Dr. Brian Bergamaschi, United States Geological Survey</em>
+    <br /><strong> 8:45 - Keynote Speaker</strong> - <strong>Zooplankton and Estuary food web dynamics</strong><em><br /> Dr. Sami Souissi<a class="external-link" href="http://log.univ-littoral.fr/Souissi">http://log.univ-littoral.fr/Souissi</a> </em>
+    <br /><strong> 9:35 - Causes, consequences, and potential remedies to low food web productivity in brackish waters of the San Francisco Estuary</strong>
+    <br /><em> Dr. Wim Kimmerer</em><a class="external-link" href="http://http://rtc.sfsu.edu/research/in_kimmerer.html">http://http://rtc.sfsu.edu/research/in_kimmerer.html</a></p>
+<p><strong> 10:25- 10:40 Break</strong></p>
+<p><strong>10:40 – The Physical Environment and Dynamics</strong>
+    <br /><em> Dr. Lisa Lucas</em><a class="external-link" href="http://http://sfbay.wr.usgs.gov/access/wqdata/overview/people/lisa.html">http://http://sfbay.wr.usgs.gov/access/wqdata/overview/people/lisa.html</a></p>
+<p><strong></strong></p>
+<p class="Default"><strong>11:30 – Nutrient Dynamics/Modeling <br /><em> </em></strong><em>Dr. Mark Brush</em><strong> <a class="external-link" href="http://www.vims.edu/people/brush_mj/index.phphttp://">http://www.vims.edu/people/brush_mj/index.phphttp://</a></strong></p>
+<strong>
+</strong>
+<p><em>        </em><strong>     12:20 -1:30 – Lunch</strong></p>
+<p><strong>1:30 – Nutrients – Conflicting Dynamics –</strong>
+    <br /><em> Dr. Alex Parker</em> - <a class="external-link" href="http://www.csum.edu/web/academics/faculty3http://">http://www.csum.edu/web/academics/faculty3http://</a>
+    <br /><strong>2:20 - Benthic Impacts- Clam Grazing</strong>
+    <br /><em> Dr. Jan Thompson</em> <a class="external-link" href="http://profile.usgs.gov/professional/mypage.php?rfs=y&amp;name=jthompsohttp://">http://profile.usgs.gov/professional/mypage.php?rfs=y&amp;name=jthompsohttp://</a></p>
+<p><strong>    3:10 – 3:30 Break</strong></p>
+<p>
+    <br /><strong>3:30 – Synthesis Panel Discussion</strong> – (combining speakers and *restoration ecology panelists), this group will discuss how local and landscape scale restoration may shape future aquatic ecosystem resilience. The general focus will concern the future and what the research, management and implementation community will need to know/find out to develop a more resilient landscape.</p>
+<p><strong>4:30- Final Thoughts</strong> –<em> Dr. Brian Bergamaschi </em>(USGS)
+    <br /> <strong>* Restoration Ecology Panel –</strong>
+    <br />This group will probe the linkages between wetland restoration activities and aquatic food webs in a question-and-answer format with the primary speakers.
+    <br />Panel members include:
+    <br /> Carl Wilcox – California Department of Fish and Wildlife
+    <br /> Stuart Siegel – Wetlands and Water Resources, Inc.
+    <br /> Kathy Boyer – San Francisco State University - Romberg Tiburon Center
+    <br /> Swee Teh – UC Davis
+    <br /> Erwin Van Nieuwenhuyse – United States Bureau of Reclamation
+    <br /> Larry Brown – United States Geological Survey
+    <br />
+    <br />
+    <strong>
+</strong></p>
+<p><strong>For more information contact- Garrett Liles - Delta Science Program <br /></strong></p>
+<p><strong> </strong>garrett.liles@deltacouncil.ca.gov<strong> <br /></strong></p>
+<p><strong> (916)445-5694<br /><br /></strong></p>
+<p><strong><br /></strong></p>
+<strong> The seminar is FREE and OPEN TO THE PUBLIC.</strong>
+

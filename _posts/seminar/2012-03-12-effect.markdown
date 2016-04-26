@@ -6,5 +6,6 @@ author: "Cal Doval"
 date:   2012-03-12
 time: 10:00 am
 category: "seminar"
+
 ---
 <p>Kristy Deiner, from the Ecology Graduate Group, will present her exit seminar on the subject of how introduced trout affect the benthic invertebrate communities of alpine lakes. Her seminar is sponsored by Animal Science.</p>
