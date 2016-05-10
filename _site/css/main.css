@@ -755,6 +755,18 @@ nav {
   @media (max-width: 640px) {
     nav {
       width: 90%; } }
+  nav ul.submenu {
+    transition: 0.3s ease-in;
+    -webkit-transition: 0.3s ease-in;
+    -webkit-transform: translateZ(0);
+    background-color: #F5F5F1;
+    padding: 1%;
+    padding-left: 8px;
+    padding-right: 8px;
+    list-style-type: none;
+    border-left: 1px solid #C8C7CC;
+    border-right: 1px solid #C8C7CC;
+    border-bottom: 1px solid #C8C7CC; }
 
 #nav > ul {
   margin: 0px;
@@ -790,27 +802,16 @@ nav {
         color: #DDB307;
         background-color: #fff; }
 
-/* second level Submenu */
-ul.submenu {
-  transition: 0.3s ease-in;
-  -webkit-transition: 0.3s ease-in;
-  -webkit-transform: translateZ(0);
-  background-color: #F5F5F1;
-  list-style-type: none;
-  padding: 0px 8px;
+/* second level */
+#nav li ul {
   background-color: #fff;
   display: none;
   position: absolute;
   top: 100%; }
-  ul.submenu a {
-    font-size: 1.4rem;
+  #nav li ul a {
     color: #505050; }
-    ul.submenu a:hover {
+    #nav li ul a:hover {
       color: #CFA21A; }
-  ul.submenu li {
-    border-bottom: 1px solid #C8C7CC; }
-    ul.submenu li:last-child {
-      border-bottom: none; }
 
 #nav li:hover ul {
   display: block;
@@ -856,6 +857,9 @@ ul.submenu {
       text-align: left;
       padding-left: 15px; }
 
+  #nav > ul {
+    margin-left: 4%; }
+
   nav a.active {
     border-bottom: none !important; }
 
@@ -868,7 +872,6 @@ ul.submenu {
     background-color: #016FC4;
     color: #fff;
     margin-left: 5%;
-    margin-top: 3px;
     margin-bottom: 6px; }
     .nav_open i,
     .nav_close i {
@@ -1097,6 +1100,15 @@ ul.news-list-main li {
   @media (max-width: 640px) {
     .slider-wrapper {
       width: 90%; } }
+  @media (max-width: 1250px) {
+    .slider-wrapper {
+      min-height: 350px; } }
+  @media (max-width: 850px) {
+    .slider-wrapper {
+      min-height: 300px; } }
+  @media (max-width: 640px) {
+    .slider-wrapper {
+      min-height: 150px; } }
 
 .nivoSlider {
   position: relative;

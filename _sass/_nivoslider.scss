@@ -12,7 +12,16 @@
 .slider-wrapper {
     @include container;
     margin-top:20px;
-    min-height:435px; 
+     min-height:435px;
+    @include breakpoint(desktop) {
+        min-height: 350px;
+    }
+    @include breakpoint(rufus){
+        min-height:300px;
+    }
+    @include breakpoint(mobileonly){
+        min-height:150px;
+    }
 }
 .nivoSlider {
     position: relative;
