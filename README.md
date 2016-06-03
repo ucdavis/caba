@@ -1,9 +1,9 @@
 ##UC Davis CAES CRU Web Dev
 
-Jekyll Starter for Web projects with the College of Agricultural and Environmental Sciences at UC Davis.
+Website for the Center for Aquatic Biology and Aquaculture at the College of Agricultural and Environmental Sciences at UC Davis.
 
 Author: Cal Doval cydoval@ucdavis.edu
-Client: College of Agricultural and Environmental Sciences
+Client: Center for Aquatic Bioloy and Aquaculture
 Project: Center for Aquatic Biology and Aquaculture
 Website: caba.ucdavis.edu
 
