@@ -4,7 +4,6 @@ title:  "CABA Scholarships for 2016 are available"
 description: "Open to all UC Davis graduate students who are working on Fisheries Biology and/or Riparian or Limnetic Ecology research benefiting California's recreational fisheries."
 author: "Admin"
 date:   2016-1-07 23:58:42
-tags: "Rugby"
 category: "news"
 image: /media/news/fishing.jpeg
 image-caption:
