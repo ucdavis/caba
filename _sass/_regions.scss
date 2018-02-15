@@ -15,7 +15,16 @@
         @include container;
     }
 }
-
+.mediaflexer {
+  display:flex;
+  border:1px solid $borders;
+  padding:16px;
+  margin:8px;
+  background-color:#fff;
+  .media-text {
+    padding-left:16px;
+  }
+}
 .aside_col {
     background-color: #fff;
     padding: 5px;
