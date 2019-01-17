@@ -7,9 +7,12 @@ date:   2018-2-15 13:58:42
 category: "news"
 image: /media/news/fishing.jpeg
 image-caption:
+published: false
 ---
 <p>Open to all UC Davis graduate students who are working on Fisheries Biology and/or Riparian or Limnetic Ecology research benefiting California's recreational fisheries. For additional information and application packages, click on the individual icons.</p>
 <p><b>Applications are due March 30, 2018.</b></p>
+<p>Please email completed applications to <a href="mailto:jlboulanger@ucdavis.edu">Joyce L Boulanger</a> at jlboulanger@ucdavis.edu
+</p>
 <h3>This year's available scholarships are:</h3>
 <div class="mediaflexer">
 	<div class="media-img">
