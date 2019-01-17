@@ -26,7 +26,7 @@ The selected candidate for this scholarship agrees to:</p>
 <strong>Application Requirements for all Scholarships:</strong></p>
 
 <ul>
-	<li>A completed Application Form (see next page).</li>
+	<li>A completed Application Form <a href="/media/files/DiabloValleyFlyfishermenApplicationForm.docx">(see link)</a>.</li>
 	<li>An enrollment verification from the Registrar's Office at <a target="_blank" href="https://registrar.ucdavis.edu/records/verifications.cfm">https://registrar.ucdavis.edu/records/verifications.cfm</a></li>
 	<li>A cover letter (limited to 2 pages) describing your qualifications, interests, career goals, participation in conservation activities, and how your proposed research project is relevant, applicable, and beneficial to sport fishing. Please also include your most recent overall GPA. The person awarded the scholarship may be asked to provide evidence of their academic standing prior to the award.</li>
 	<li>A written statement (limited to 3 pages), outlining your research project and how it will benefit California recreational fisheries. The statement should be appropriate for and easily comprehensible by a lay audience.</li>
