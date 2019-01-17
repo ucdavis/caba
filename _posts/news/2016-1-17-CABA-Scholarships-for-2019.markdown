@@ -8,6 +8,11 @@ category: "news"
 image: /media/news/diablo_valley_fly_fishermen.png
 image-caption:
 ---
+<div class="image_wrapper left">
+	<a class="gallery" href="/media/news/diablo_valley_fly_fishermen.png">
+		<img alt="DVFF (MRGC)" src="/media/news/diablo_valley_fly_fishermen.png"/>
+	</a>
+</div>
 <p><a target="_blank" href="https://www.facebook.com/Diablo-Valley-Fly-Fishermen-178908453388/?__tn__=K-R&amp;eid=ARDbOCN3Q8yXp4suG2ecvkIc-DyOfdA4jRvc66Mi5tiNMyeefmd-aX4LjAB7FwvOU22fbPirL03Gihox&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAlpwI1Sji39fLgf91PMnJGAqGFAQQqCgnOWGJIh-MD-H4cW8HPOqxtbpkv2I4YCXlv9BNMf0NeSq5YVd0UllQA5xg5QH7ho8GfFUuqEfzZbTq2jaKW6aBpC4O3Db4FcDS_fjrfaNwDVTPNVuzFh7OH09gHiutUv-DtZGzSXpmTlcVhphCcqQOaTvSD7Wo-o7WSUxIByZwrZt9TORq6lIDqkoteAS-4Z2BmeODjniqviRPs2tJ3tLZh7t5ZJMQ_PqLANPkHMld81DlahWfnomKVvs1NEn4UVeKzFbAoQSIIfeG-zreICC-GKNPc8ylwUdJ8n29IV2dbMseKWDcdNr0">Diablo Valley Fly Fishermen</a> (DVFF) sponsors this annual $2,500 scholarship (one per year) in support of a graduate student conducting research. Research interests must be in fisheries biology and/or riparian or limnetic ecology, with projects that benefit California's recreational fisheries. A preference is given for research on a sport-related fish species. Applicants for this scholarship must be in good academic standing as a graduate student at UC Davis. The scholarship is administered by the Diablo Valley Flyfishermen, who will receive and review applications, and select a qualified student whose research best matches its interests. DVFF will also award the scholarship directly to the student. In the event that no research proposal matches the interest of DVFF, no award will be given.<br />
 The selected candidate for this scholarship agrees to:</p>
 
