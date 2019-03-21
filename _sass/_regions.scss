@@ -91,6 +91,9 @@
                     width: 90%;
                 }
             }
+            @include breakpoint(rufus) {
+                width: 42%;
+            }
             @include breakpoint(smallmobile) {
                 margin-bottom: 20px;
                 img.img_article_thumb {
@@ -98,6 +101,7 @@
                     margin-bottom: 0px;
                 }
             }
+
             img.img_article_thumb {
                 float: none;
                 width: 100%;
